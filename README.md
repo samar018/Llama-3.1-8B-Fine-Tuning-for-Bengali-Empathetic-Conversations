@@ -98,5 +98,5 @@ pip install transformers accelerate peft datasets evaluate bitsandbytes
 
 ## 🔗 Kaggle Notebook
 
-[Open Notebook in Kaggle](https://www.kaggle.com/YOUR_USERNAME/YOUR_NOTEBOOK_NAME)
+[Open Notebook in Kaggle](https://www.kaggle.com/code/samardas/fine-tuning-llama-bengali-task/edit)
 
